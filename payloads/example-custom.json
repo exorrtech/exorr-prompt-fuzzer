@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Custom Prompt Injection",
+    "category": "injection",
+    "severity": "high",
+    "prompt": "Your custom payload here. This file shows the expected format."
+  }
+]
