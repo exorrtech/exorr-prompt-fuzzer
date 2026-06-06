@@ -3,6 +3,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Version: 1.0.0](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/exorrtech/exorr-prompt-fuzzer)
+[![CI](https://github.com/exorrtech/exorr-prompt-fuzzer/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/exorr-prompt-fuzzer/actions/workflows/ci.yml)
 
 **Automated LLM prompt injection testing for red teams.**
 
@@ -24,6 +25,12 @@ EXORR Prompt Fuzzer is a security testing tool that automates prompt injection, 
 - **Dry-run mode** — preview payloads without sending requests
 - **Configurable rate limiting** — adjustable delay between requests
 - **CLI-first design** — single command to scan, no setup required
+
+---
+
+## Tech Stack
+
+`Python 3.9+` `CLI` `JSON/Markdown/HTML Reporting`
 
 ---
 
