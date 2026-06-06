@@ -9,7 +9,7 @@
 
 EXORR Prompt Fuzzer is a security testing tool that automates prompt injection, jailbreak, and safety bypass testing against LLM endpoints. It ships 19 built-in payloads across 5 attack categories, heuristic-based response classification, and multi-format reporting — purpose-built for AI red team operations.
 
-> *Walk with the void. ∅ EXORR Security*
+> *Walk with the void. ∅ ∅ EXORR*
 
 ---
 
@@ -226,13 +226,13 @@ This tool is intended for **authorized security testing only**. Only use EXORR P
 
 ## License
 
-[MIT License](LICENSE) — EXORR Security
+[MIT License](LICENSE) — ∅ EXORR
 
 ---
 
 <div align="center">
 
-**∅ EXORR Security**
+**∅ ∅ EXORR**
 
 *Walk with the void.*
 
