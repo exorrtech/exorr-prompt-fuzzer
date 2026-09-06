@@ -9,7 +9,7 @@ description = "EXORR Prompt Fuzzer — Automated LLM prompt injection testing fo
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
-authors = [{name = "EXORR Security", email = "exorrnull@gmail.com"}]
+authors = [{name = "EXORR Security", email = "ops@exorr.tech"}]
 keywords = ["prompt-injection", "llm-security", "red-team", "ai-security", "fuzzer", "jailbreak"]
 classifiers = [
     "Development Status :: 4 - Beta",
